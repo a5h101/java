@@ -1,0 +1,42 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Exercise1",
+      "request": "launch",
+      "mainClass": "Exercise1",
+      "projectName": "java_48af40ef"
+    },
+    {
+      "type": "java",
+      "name": "FibonacciExample1",
+      "request": "launch",
+      "mainClass": "FibonacciExample1",
+      "projectName": "java_48af40ef"
+    },
+    {
+      "type": "java",
+      "name": "abc",
+      "request": "launch",
+      "mainClass": "abc",
+      "projectName": "java_48af40ef"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch abc",
+      "request": "launch",
+      "mainClass": "abc",
+      "projectName": "java_16bec0dd"
+    }
+  ]
+}
